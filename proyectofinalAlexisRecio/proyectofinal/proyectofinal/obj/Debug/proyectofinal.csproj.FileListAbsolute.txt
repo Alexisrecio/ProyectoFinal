@@ -1,0 +1,10 @@
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csprojAssemblyReference.cache
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.Form1.resources
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.Properties.Resources.resources
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csproj.GenerateResource.cache
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\bin\Debug\proyectofinal.exe.config
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\bin\Debug\proyectofinal.exe
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\bin\Debug\proyectofinal.pdb
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.exe
+C:\Users\Alexis Recio\Desktop\proyectofinalAlexisRecio\proyectofinal\proyectofinal\obj\Debug\proyectofinal.pdb
